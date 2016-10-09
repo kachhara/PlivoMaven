@@ -1,0 +1,14 @@
+##--------------Payment Page & Coupon Locators----#
+
+
+REDEEM_CODE_TEXT=//a[contains(text(),'Redeem a coupon code?')]
+
+COUPON_POPUP=//h3[contains(text(),'Redeem your coupon')]
+
+ENTER_COUPON_CODE=//input[@id='coupon']
+
+SUBMIT_COUPON=//a[contains(text(),'Submit')]
+
+COUPON_CODE= PLIVO3456
+
+COUPON_AUTH= //div[@id='coupon_error']

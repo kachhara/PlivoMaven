@@ -1,0 +1,8 @@
+##----------------------DashBoard Locators-----------------##
+
+
+DASHBOARD_ACTIVE=//div[@id='dashnav']//a[contains(text(),'Dashboard')]/parent::li
+
+DASHBOARD_BUTTON= //div[@id='dashnav']//a[contains(text(),'Dashboard')]
+
+ACCOUNT_LINK= //ul[@class='loginnav']//a[contains(text(),'Account')]

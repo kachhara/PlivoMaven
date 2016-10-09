@@ -1,0 +1,11 @@
+
+##--------------------Login Page Locators-------------------##
+
+LOGIN_BUTTON=//button[@id='login-sub' and contains(text(),'Login')]
+
+USER_NAME= //input[@name='username']
+
+USER_PASSWORD= //input[@name='password']
+
+USER= rajatkachhara@gmail.com
+PASSWORD= test@1234

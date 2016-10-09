@@ -1,0 +1,7 @@
+##--------------SubAccount Page Locators----#
+
+SUBACCOUNT_ACTIVE=//div[@id='dashnav']//a[contains(text(),'Sub Accounts')]/parent::li   .
+
+SUBACCOUNT_BUTTON= //div[@id='dashnav']//a[contains(text(),'Sub Accounts')]
+
+PAYMENT_LINK= //a[@title='Payments' and contains(text(),'Payments')]
